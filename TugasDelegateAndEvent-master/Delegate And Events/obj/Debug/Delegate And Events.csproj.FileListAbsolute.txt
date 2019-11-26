@@ -1,0 +1,10 @@
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\bin\Debug\Delegate And Events.exe.config
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\bin\Debug\Delegate And Events.exe
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\bin\Debug\Delegate And Events.pdb
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\obj\Debug\Delegate And Events.csprojAssemblyReference.cache
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\obj\Debug\Delegate_And_Events.FrmCalculator.resources
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\obj\Debug\Delegate_And_Events.FrmEntry.resources
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\obj\Debug\Delegate_And_Events.Properties.Resources.resources
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\obj\Debug\Delegate And Events.csproj.GenerateResource.cache
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\obj\Debug\Delegate And Events.exe
+C:\Users\Kazuto\Downloads\TugasDelegateAndEvent-master\TugasDelegateAndEvent-master\Delegate And Events\obj\Debug\Delegate And Events.pdb
